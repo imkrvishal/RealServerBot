@@ -2,4 +2,4 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on eSports Manager Discord bot
-- 📫 How to reach me officialserverbot@gmail.com
+- 📫 How to reach me officialserverbot@gmail.com and [Discord](https://discord.com/users/791609061622808586)
